@@ -1,0 +1,12 @@
+{
+    "/js/app.js": "/js/app.js",
+<<<<<<< HEAD
+<<<<<<< HEAD
+    "/css/app.css": "/css/app.css"
+=======
+    "/scss/app.css": "/scss/app.css"
+>>>>>>> develop
+=======
+    "/css/app.css": "/css/app.css"
+>>>>>>> develop
+}
